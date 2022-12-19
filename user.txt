@@ -1,0 +1,7 @@
+SuperUser
+Username: admin
+Password: admin123
+
+Sample faculty
+Username: jsmith
+Password: john#123
